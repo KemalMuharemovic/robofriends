@@ -1,3 +1,9 @@
+It is a web application that fetch data from API and display the data into cards. Avatars are also fetch from robohas site that generate random robots. The web app also has search bar which is real-time fillter. It is full responsive for all devices.
+
+Check it out: https://kemalmuharemovic.github.io/robofriends/
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
